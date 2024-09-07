@@ -1,0 +1,5 @@
+# Discord API wrapper for building bots
+discord.py>=2.0.0
+
+# To load environment variables from a .env file
+python-dotenv>=0.19.2
